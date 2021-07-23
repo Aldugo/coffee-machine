@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Area of parallelogram/Coffee_Machine.Topics-Calling_a_method-Area_of_parallelogram.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Area of parallelogram/Coffee_Machine.Topics-Calling_a_method-Area_of_parallelogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Area of parallelogram/Coffee_Machine.Topics-Calling_a_method-Area_of_parallelogram.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Area of parallelogram/Coffee_Machine.Topics-Calling_a_method-Area_of_parallelogram.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Area of parallelogram/Coffee_Machine.Topics-Calling_a_method-Area_of_parallelogram.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Area of parallelogram/Coffee_Machine.Topics-Calling_a_method-Area_of_parallelogram.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Coffee_Machine.Topics-Calling_a_method-Call_me_awesome.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Coffee_Machine.Topics-Calling_a_method-Call_me_awesome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Coffee_Machine.Topics-Calling_a_method-Call_me_awesome.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Coffee_Machine.Topics-Calling_a_method-Call_me_awesome.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Coffee_Machine.Topics-Calling_a_method-Call_me_awesome.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Coffee_Machine.Topics-Calling_a_method-Call_me_awesome.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Coffee_Machine.Topics-Calling_a_method-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Coffee_Machine.Topics-Calling_a_method-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Coffee_Machine.Topics-Calling_a_method-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Coffee_Machine.Topics-Calling_a_method-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Coffee_Machine.Topics-Calling_a_method-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Coffee_Machine.Topics-Calling_a_method-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Theory/Coffee_Machine.Topics-Conditional_statement-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Theory/Coffee_Machine.Topics-Conditional_statement-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Theory/Coffee_Machine.Topics-Conditional_statement-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Theory/Coffee_Machine.Topics-Conditional_statement-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Theory/Coffee_Machine.Topics-Conditional_statement-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Theory/Coffee_Machine.Topics-Conditional_statement-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Triangle/Coffee_Machine.Topics-Conditional_statement-Triangle.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Triangle/Coffee_Machine.Topics-Conditional_statement-Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Triangle/Coffee_Machine.Topics-Conditional_statement-Triangle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Triangle/Coffee_Machine.Topics-Conditional_statement-Triangle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Triangle/Coffee_Machine.Topics-Conditional_statement-Triangle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Conditional statement/Triangle/Coffee_Machine.Topics-Conditional_statement-Triangle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
